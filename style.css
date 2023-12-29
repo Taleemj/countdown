@@ -56,6 +56,11 @@ p {
   color: red;
 }
 
+.newYear {
+  font-size: 150px;
+  color: #3b3b3b;
+}
+
 @media (max-width: 760px) {
   h1 {
     font-size: 2.5rem;
