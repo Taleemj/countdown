@@ -21,6 +21,15 @@ video {
   min-height: 100%;
   z-index: -10223;
 }
+.backdrop {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: -1;
+}
 
 .container {
   margin-top: 2rem;
